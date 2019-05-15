@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-
+ new_hash << :actor
 end
 
 def monopoly
